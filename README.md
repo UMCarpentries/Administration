@@ -11,7 +11,8 @@ Discussion of issues related to the running of the UM Software Carpentry group
 ### Mailing Lists ###
 
 * [Software Carpentry mailing lists](http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org)
-* [MCommunity email list](https://mcommunity.umich.edu/#group:Software%20Carpentry%20Updates)
+* [Announcements MCommunity list](https://mcommunity.umich.edu/#group:Software%20Carpentry%20Updates)
+* [Discussion MCommunity list](https://mcommunity.umich.edu/#group:Software%20Carpentry%20Updates)
  
 
 ### Etherpads ###
