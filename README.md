@@ -19,4 +19,6 @@ Discussion of issues related to the running of the UM Software Carpentry group
 
 * [Meeting minutes from 2016-07-18](http://pad.software-carpentry.org/umichswc)
 * [Meeting minutes from 2016-09-14](http://pad.software-carpentry.org/umichswc_09_2016)
+* [Meeting minutes from 2016-10-25](http://pad.software-carpentry.org/umichswc_10_2016)
+* [Meeting minutes from 2016-11-22](http://pad.software-carpentry.org/umichswc_11_2016)
 
